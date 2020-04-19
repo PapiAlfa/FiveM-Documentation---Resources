@@ -1,6 +1,6 @@
 2 | Creating Your First Resource
     
-    A step-by-step guide on cdreating your first custom resource for your FiveM server
+    A step-by-step guide on creating your first custom resource for your FiveM server
 
     Creating a Resource Template
       A brilliant starting task is to make a resource template so you can quickly
