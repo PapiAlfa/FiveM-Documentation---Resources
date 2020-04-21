@@ -33,5 +33,10 @@
         8)Restart your device to ensure you keep the same IP Address, this can be tested by opening Command Prompt again and checking           with the Local IPv4 Address as earlier.
         
     Router Method:
-        
+        1)	Open a browser and enter your default gateway in the address bar and confirm
+        2)	When prompted to do so enter your administrator login and password
+            a.	This can be found on the back of the router or online here (https://portforward.com/router.htm)
+                i.	Find the make and model of your router, then find the default login details
+        3)	Locate the devi
+
 
