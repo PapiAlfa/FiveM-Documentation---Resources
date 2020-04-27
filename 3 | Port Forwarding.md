@@ -33,10 +33,34 @@
         8)Restart your device to ensure you keep the same IP Address, this can be tested by opening Command Prompt again and checking           with the Local IPv4 Address as earlier.
         
     Router Method:
-        1)	Open a browser and enter your default gateway in the address bar and confirm
-        2)	When prompted to do so enter your administrator login and password
+        1)	Open a browser and enter your default gateway in the address bar and confirm.
+        2)	When prompted to do so enter your administrator login and password.
             a.	This can be found on the back of the router or online here (https://portforward.com/router.htm)
-                i.	Find the make and model of your router, then find the default login details
-        3)	Locate the devi
+                i.	Find the make and model of your router, then find the default login details.
+        3)	Locate the device in the devices page.
+        4)  Find the option to set an IP address.
+        5)  Enter the devices IPv4 address from earlier and save to confirm the changes.
 
 
+    Port Forwarding
+        This act of 'forwarding' the ports allows data to be transmitted through these ports which are used for transmitting
+        data online. It is like opening a door and allowing people to talk through.
+        
+        1)  Navigate to your default gateway from earlier and login using your details you found earlier.
+        2)  Try to locate the port forwarding page on your router.
+            a. If this does not exist head to your devices page and select your device you are hosting from.
+            b. This may also be located in the advanced section.
+        3)  Select 'Create new Port Forwarding Rule'.
+        4)  Select your device or enter the IP of your device.
+        
+        Rule 1:
+           1)  For rule 1, enter the start and end ports as 30120
+           2)  Select TCP protocol and save.
+       Rule 2:
+           1) Follow the same beginning steps as rule 1
+           2) Select UDP protocol instead and save.
+           
+       5) Save and confirm all changes and exit the panel
+       6) Restart your device
+       
+    [NOTE]: If you have any problems and you cannot find your portforwarding page on your router, head to the following link and find your router - there will be direct steps of how to port forward for your specific router.
