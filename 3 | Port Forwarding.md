@@ -1,14 +1,14 @@
-3 | Portforwarding Your FiveM Server
+3 | Port forwarding Your FiveM Server
 
     A step-by-step guide on your FiveM server
     
     Setting a Static IP Address
-        To be able to maitain your forwarded ports you will need to set a static IP address
+        To be able to maintain your forwarded ports you will need to set a static IP address
         to your device so the device's IP will not change - This is set through your device 
         or your router.
     
     Finding your IPv4 address & Default Gateway:
-        1) Open Command Prompt as Administator
+        1) Open Command Prompt as Administrator
         2) Enter 'ipconfig' then enter
         3) Locate your IPv4 address & Default Gateway
         3) Note this down for future reference. 
