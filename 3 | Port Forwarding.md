@@ -63,4 +63,4 @@
        5) Save and confirm all changes and exit the panel
        6) Restart your device
        
-    [NOTE]: If you have any problems and you cannot find your portforwarding page on your router, head to the following link and find your router - there will be direct steps of how to port forward for your specific router.
+    [NOTE]: If you have any problems and you cannot find your portforwarding page on your router, head to the following link and find your router - there will be direct steps of how to port forward for your specific router. (https://portforward.com/router.htm)
